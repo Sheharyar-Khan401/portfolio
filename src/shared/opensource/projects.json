@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "SkillGigs",
+      "logo" : "sg.png",
+      "createdAt": "",
+      "url": "http://skillgigs.com/",
+      "description": "🔥 SkillGigs is an easy-to-use talent marketplace, using expert-matching technology to pair healthcare, technology and digital professionals to personalized job openings every day. With each response, our AI technology learns from your preferences to offer even more specific matches. We call this process bidding.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React js",
+          "iconifyClass": "skill-icons:react-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "skill-icons:javascript"
+        },
+        {
+          "name": "Ant design",
+          "iconifyClass": "logos:ant-design"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "GraphQL",
+          "iconifyClass": "logos:graphql"
+        },
+        {
+          "name": "Mongo DB",
+          "iconifyClass": "logos:mongodb"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Millao",
+      "logo": "millao.png",
+      "createdAt": "",
+      "url": "https://millao.com/",
+      "description": "📦 Take control of your time with Smart Scheduling, Collaboration and Industry-Specific Workflows to fast track leads into revenue.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React js",
+          "iconifyClass": "skill-icons:react-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "skill-icons:javascript"
+        },
+        {
+          "name": "mdbootstrap",
+          "iconifyClass": "fa6-brands:mdb"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "swipefox",
+      "logo": "sf.png",
+      "createdAt": "",
+      "url": "https://swipefox.com/",
+      "description": "🌀 SwipeFox app acts as a personal recruiter helping professionals like nurses, travel nurses, therapists, etc find gigs matching their lifestyle and pay aspirations, but best of all the employers apply to you.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Type Script",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "Material UI",
+          "iconifyClass": "devicon:materialui"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "skill-icons:javascript"
+        },
+        {
+          "name": "Dynamo DB",
+          "iconifyClass": "skill-icons:dynamodb-light"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Decision Support System",
+      "createdAt": "",
+      "url": "",
+      "description": "Decision Support System digitizes the aircraft engineering maintenance setup for small and medium sized flight operations. The real-time information-based decision support system augments field engineers in decision making while increasing the work center’s productivity through intelligent planning and early identification of bottlenecks.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React js",
+          "iconifyClass": "skill-icons:react-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "skill-icons:javascript"
+        },
+        {
+          "name": "mdbootstrap",
+          "iconifyClass": "fa-brands:mdb"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Wyzer Aim",
+      "logo": "wyzeraim.png",
+      "createdAt": "",
+      "url": "https://mywyzer.com/",
+      "description": "🚀  Wyzer AIM is an Intelligent Marketing Centric Online Ordering and marketing SaaS for restaurants to create and manage multiple touch points for online ordering, customer engagement, customer loyalty and marketing.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "skill-icons:javascript"
+        },
+        {
+          "name": "React js",
+          "iconifyClass": "skill-icons:react-dark"
+        }
+      ]
+    }
+  ]
+}
