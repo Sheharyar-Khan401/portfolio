@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "sheharyarportfolio",
-  "homepage": "portfolio",
+  "homepage": "https://sheharyar-khan401.github.io/portfolio/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
